@@ -55,7 +55,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/currency_spinner"
             android:gravity="center_horizontal"
-            android:spinnerMode="dropdown"
+            android:spinnerMode = "dropdown"
             android:dropDownSelector="@color/fontColour"
             />
 
